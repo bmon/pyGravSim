@@ -1,0 +1,19 @@
+#############################################################
+pyGravSim -- Python Gravity Simulator
+© Copyright 2012 Brendan Roy - Bmonsterboy@gmail.com
+If you want to be a part of the project, send me an email :)
+#############################################################
+
+To run the project, you'll need a few things.
+1. Python 2. It probably needs to be later than 2.4.
+2. Pygame for your installation of python.
+3. The images etc, but they should be in the repo anyway.
+
+Remember, this project is still very much a work in progress.
+I'd say I've only spend 2 hours or so on this, so WHEN you 
+find bugs, it would be handy if you report them :D
+Also, this is not intended to be 100% accurate. I'm not a
+Masters-degree physicist DX
+
+
+If you are having issues, email me :)
